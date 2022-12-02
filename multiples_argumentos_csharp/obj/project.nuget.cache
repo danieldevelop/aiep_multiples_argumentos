@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZcYoazmr22jeNlyCji5LB3MCoQwK5UR1FbzXLqPCmUn++tVzRTPB4Ila/+hHfiwXJGy29Ytj1rqmBTSZMHb0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\multiples_argumentos_csharp\\multiples_argumentos_csharp\\multiples_argumentos_csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
